@@ -382,17 +382,11 @@ plt.title(
    "Actual vs Predicted Values"
 )
 
-
 plt.legend()
-
 
 plt.grid(True)
 
-
 plt.tight_layout()
-
-
-
 
 image1 = os.path.join(
    IMAGE_FOLDER,
